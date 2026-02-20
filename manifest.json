@@ -1,0 +1,10 @@
+{
+  "id": "drawio-obsidian",
+  "name": "图表 (Draw.io)",
+  "version": "1.5.4",
+  "minAppVersion": "0.9.12",
+  "description": "在 Obsidian 中创建和编辑 Draw.io 图表。此插件支持在笔记中嵌入或作为独立文件创建图表。图表保存为 SVG 文件（也支持 .drawio 扩展名）。",
+  "author": "Sam Greenhalgh",
+  "authorUrl": "https://www.radicalresearch.co.uk/",
+  "isDesktopOnly": true
+}
